@@ -1,0 +1,11 @@
+﻿# Node.js dependencies
+backend-node/node_modules/
+backend-node/npm-debug.log
+
+# Java binaries
+backend-java/bin/
+*.class
+
+# OS junk files
+.DS_Store
+Thumbs.db
