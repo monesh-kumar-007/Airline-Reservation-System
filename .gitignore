@@ -9,3 +9,7 @@ backend-java/bin/
 # OS junk files
 .DS_Store
 Thumbs.db
+
+# Ignore local VS Code configuration files and backups
+.vscode/
+backend-java/.vscode/
